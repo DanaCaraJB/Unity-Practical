@@ -31,8 +31,7 @@ public class EscapePlayer : MonoBehaviour
     }
     void MoveOppositePlayer() {
         if (GetDistanceToPlayer() <= 3) { 
-        //your logic on how to move this game object away from the player using the speed variable.
-        //direction vector should be calculated by using playerPosition and transform.position 
+            
         }
     }
 
